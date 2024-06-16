@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Shekkari</h1>
-<h3 align="center">I want to use Artificial Intelligence to make a positive impact on the lives of those around me.</h3>
+<h3 align="center">On a mission to use Artificial Intelligence to make a positive impact on the lives of those around me.</h3>
 
 - 🔭 I’m currently working on **Generative AI**
 
